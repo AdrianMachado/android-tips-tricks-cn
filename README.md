@@ -610,7 +610,7 @@
   + [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping
   + [API Studio](http://apistudio.io/) - a playground for API developers
   + [Mocky](http://www.mocky.io/) - Mock your HTTP responses to test your REST API
-  + [Mockbin](http://mockbin.com) - Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.
+  + [Mockbin](http://mockbin.io) - Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.
 
 + **订阅这些内容**
   + [Android Weekly](http://androidweekly.net/) - Free newsletter that helps you to stay cutting-edge with your Android Development
